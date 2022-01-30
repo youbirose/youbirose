@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @youbirose
 - 👀 I’m interested in machine learning 
 - 🌱 I’m currently learning machine learning for interprétation of ab initio molecular dynamics simulations 
-- 💞️ I’m looking to collaborate on NANA Engo profossor
+- 💞️ I’m looking to collaborate on The application of machine learning in computational chemistry 
 
 - 📫 How to reach me rose.youbi@facsciences-uy1.cm 
 
